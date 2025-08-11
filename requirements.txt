@@ -1,4 +1,4 @@
-flask
-packaging
-flask-cors
+flask  
+packaging  
+flask-cors  
 gunicorn
